@@ -1,2 +1,9 @@
-# mi-app-k8s
-Crear un repositorio de GitHub con una aplicación Kubernetes y conectarlo a Argo CD para que despliegue automáticamente la app en un cluster
+- Crear un repositorio de GitHub con una aplicación Kubernetes.
+- Conectarlo a Argo CD para que despliegue automáticamente la app en un cluster.
+
+
+```
+mi-app-k8s/
+├── kustomization.yaml
+└── deployment.yaml
+```
